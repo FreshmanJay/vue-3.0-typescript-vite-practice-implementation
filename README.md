@@ -9,3 +9,5 @@ This is a repository for practicing how to use vue 3.0 with typescript and vite.
 展示效果如下：
 
 ![](https://github.com/FreshmanJay/vue-3.0-typescript-vite-practice-implementation/blob/main/public/images/neikou01.png?raw=true)
+
+![](https://github.com/FreshmanJay/vue-3.0-typescript-vite-practice-implementation/blob/main/public/images/neikou02.png?raw=true)
