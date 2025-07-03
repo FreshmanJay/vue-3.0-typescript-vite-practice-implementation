@@ -14,3 +14,9 @@ The display effect is as follows:
 ![](https://github.com/FreshmanJay/vue-3.0-typescript-vite-practice-implementation/blob/main/public/images/neikou01.png?raw=true)
 
 ![](https://github.com/FreshmanJay/vue-3.0-typescript-vite-practice-implementation/blob/main/public/images/neikou02.png?raw=true)
+
+参考资料：
+
+References:
+
+https://developer.aliyun.com/article/1587094
